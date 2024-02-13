@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "imgSrc": null,
+    "price":1100,
+    "mrp":1150
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "imgSrc": null,
+    "price":2100,
+    "mrp":2150
+  },
+  {
+    "id": 3,
+    "title": "Watermelon",
+    "imgSrc": null,
+    "price":3100,
+    "mrp":3150
+  },
+  {
+    "id": 4,
+    "title": "Grapes",
+    "imgSrc": null,
+    "price":4100,
+    "mrp":4150
+  },
+  {
+    "id": 5,
+    "title": "Tomato",
+    "imgSrc": null,
+    "price":5100,
+    "mrp":5150
+  },
+  {
+    "id": 6,
+    "title": "Onion",
+    "imgSrc": null,
+    "price":6100,
+    "mrp":6150
+  }
+]

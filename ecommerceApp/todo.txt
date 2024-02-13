@@ -1,0 +1,2 @@
+edit account info
+can't place order if user isn't logged in

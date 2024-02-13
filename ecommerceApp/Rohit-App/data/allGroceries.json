@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "imgSrc": null,
+    "price":1100,
+    "mrp":1150
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "imgSrc": null,
+    "price":2100,
+    "mrp":2150
+  },
+  {
+    "id": 3,
+    "title": "Watermelon",
+    "imgSrc": null,
+    "price":3100,
+    "mrp":3150
+  },
+  {
+    "id": 4,
+    "title": "Grapes",
+    "imgSrc": null,
+    "price":4100,
+    "mrp":4150
+  },
+  {
+    "id": 5,
+    "title": "Tomato",
+    "imgSrc": null,
+    "price":5100,
+    "mrp":5150
+  },
+  {
+    "id": 6,
+    "title": "Onion",
+    "imgSrc": null,
+    "price":6100,
+    "mrp":6150
+  },
+  {
+    "id": 7,
+    "title": "Kaju",
+    "imgSrc": null,
+    "price":7100,
+    "mrp":7150
+  },
+  {
+    "id": 8,
+    "title": "Bread",
+    "imgSrc": null,
+    "price":8100,
+    "mrp":8150
+  },
+  {
+    "id": 9,
+    "title": "Milk",
+    "imgSrc": null,
+    "price":9100,
+    "mrp":9150
+  },
+  {
+    "id": 10,
+    "title": "Curd",
+    "imgSrc": null,
+    "price":10100,
+    "mrp":10150
+  },
+  {
+    "id": 11,
+    "title": "Yoghurt",
+    "imgSrc": null,
+    "price":11100,
+    "mrp":11150
+  },
+  {
+    "id": 12,
+    "title": "Paneer",
+    "imgSrc": null,
+    "price":12100,
+    "mrp":12150
+  },
+  {
+    "id": 13,
+    "title": "Cheese",
+    "imgSrc": null,
+    "price":13100,
+    "mrp":13150
+  },
+  {
+    "id": 14,
+    "title": "Soya",
+    "imgSrc": null,
+    "price":14100,
+    "mrp":14150
+  },
+  {
+    "id": 15,
+    "title": "Whey Protein",
+    "imgSrc": null,
+    "price":15100,
+    "mrp":15150
+  }
+]
